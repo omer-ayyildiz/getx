@@ -1,0 +1,2 @@
+# getx
+getX kullnım örneği
